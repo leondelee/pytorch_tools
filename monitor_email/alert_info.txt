@@ -1,0 +1,7 @@
+To: Receiver
+From: neilserver
+Subject: Memory usage runs low!
+
+Memory usage runs low! 
+Less than 1 GB !
+Check it!
